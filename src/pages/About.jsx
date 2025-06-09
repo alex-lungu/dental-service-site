@@ -29,7 +29,7 @@ function About() {
                 <li><strong>Sarah Kim</strong> – Dental Hygienist</li>
                 <li><strong>Michael Tran</strong> – Office Manager</li>
                 <li><strong>Alexander Lungu</strong> – Website Designer</li>
-                <li><strong>Asw Falah</strong> – Website Designer</li>
+                <li><strong>Aws Falah</strong> – Website Designer</li>
               </ul>
             </div>
           </div>

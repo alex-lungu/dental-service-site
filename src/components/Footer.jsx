@@ -97,7 +97,7 @@ function Footer() {
           </div>
           <div className="col-md-4 text-center d-flex align-items-center justify-content-center">
             <p className="text-muted mb-0" style={{ fontSize: '0.95em' }}>
-              Website designed by Alexander Lungu and Asw Falah
+              Website designed by Alexander Lungu and Aws Falah
             </p>
           </div>
           <div className="col-md-4 text-center text-md-end">
